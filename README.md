@@ -14,3 +14,6 @@ data cleaning as well as data visualisation so as to come to a conclusion.
 * statsmodels.api
 * scipy.stats
 
+## Datasets.
+
+Attached are two csv files, countries.csv which contains information on users based on the countries they visited the website on and ab_data.csv which contains information linked to the old as well as new e-commerce website. The csv files have been uploaded and there will be a brief description in the jupyter python notebook.
