@@ -13,6 +13,8 @@ data cleaning as well as data visualisation so as to come to a conclusion.
 * matplotlib.pyplot
 * statsmodels.api
 * scipy.stats
+* timeit
+
 
 ## Datasets.
 
